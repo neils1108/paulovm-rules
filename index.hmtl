@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PauloVM Rules</title>
+    <style>
+        body {
+            background-color: #212529;
+            color: white;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .container {
+            width: 60%;
+            margin: auto;
+            background-color: #2F3136;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        h1, h2 {
+            font-weight: bold;
+            color: #FFFFFF;
+        }
+        .rule {
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: 15px;
+        }
+        .rule-description {
+            font-size: 16px;
+            color: #DCDDDE;
+            margin-left: 10px;
+        }
+        .important {
+            font-weight: bold;
+            color: #FFFFFF;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>PauloVM Rules</h1>
+        <h2>Make sure to frequently check this as rules may change overtime.</h2>
+
+        <div class="rule">**No overused malware**</div>
+        <div class="rule-description">We allow malware to be run on our VMs, but do not run overused malware. Overused malware are programs such as MEMZ and NoEscape. If you think your program could be considered "overused malware", then just don't run it.</div>
+
+        <div class="rule">**No Remote Administration Tools**</div>
+        <div class="rule-description">Do not use any sort of programs such as TeamViewer or AnyDesk to bypass the queue systems.</div>
+
+        <div class="rule">**- Don't break the law**</div>
+        <div class="rule-description">Do not use our virtual machines for any sort of illegal content. This includes but not limited to: Attempting to run DoS/DDoS tools, distribute spam, etc.</div>
+
+        <div class="rule">**- No NSFW Content**</div>
+        <div class="rule-description">Do not search for any NSFW.</div>
+
+        <div class="rule">**- No bypassing PauloNet**</div>
+        <div class="rule-description">PauloNet is the network which blocks anything that may break our rules. Don't bypass it.</div>
+
+        <div class="rule">**- Don't perform destructive actions constantly**</div>
+        <div class="rule-description">You're just going to annoy others to the point where you're just gonna get banned. Wouldn't be nice for anyone really.</div>
+
+        <div class="rule">**- No Crypto Mining**</div>
+        <div class="rule-description">You're not earning any money anyways. Why even try?</div>
+
+        <div class="rule">**- Do not impersonate other users**</div>
+        <div class="rule-description">If you're caught you're most likely going to be receiving severe punishments.</div>
+
+        <div class="rule">**- Final Decision Authority**</div>
+        <div class="rule-description">In any dispute or argument, the highest-ranking staff member present has the final say and their decision is binding.</div>
+
+        <div class="rule">**- Exemption Procedure**</div>
+        <div class="rule-description"></div>
+
+        <div class="rule">**Remember:**</div>
+        <div class="rule-description">*Most punishments are unappealable. That means if you get one, it stays there unless we change our mind on your moderation action.*</div>
+
+        <div class="rule-description">*Any sort of attempt to loophole the rules will get you banned.*</div>
+
+        <div class="rule-description">*We do not need to possess a reason mentioned here in these rules or anywhere else to punish or ban you from the usage of our services.*</div>
+
+        <div class="rule-description">*We only punish people if they seem to be annoying or a threat to the core functions of PauloVM.*</div>
+
+        <div class="rule-description">*We will never punish people unfairly. Abuse by “Pidoves” or “Pidgeys” can be reported in the Discord Server. (discord.gg/kDpxybfZTE)*</div>
+
+    </div>
+
+</body>
+</html>
